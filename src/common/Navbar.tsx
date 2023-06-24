@@ -30,7 +30,7 @@ export default function Navbar() {
             className="aspect-square h-20 duration-inherit group-hover:rotate-[360deg] mobile:h-14"
           />
           <h1 className="text-3xl font-semibold text-primary duration-inherit group-hover:scale-105 mobile:-ml-2 mobile:text-2xl">
-            LetsLanceHK
+            LetsLance
           </h1>
         </Link>
 
